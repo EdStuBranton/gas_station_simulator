@@ -1,0 +1,12 @@
+Files:
+GasStation.java //Main file
+
+Gastank.java //Gastank class, contains attributes: amountOfFuel, fuelType
+
+Fueltype.java // Fueltype class, contains available fueltypes and their cost per litre but also cost per litre for the gasstation
+
+Bankaccount.java //Contains the current balance of the gas station
+
+Costs.java //Contains a Costs class with the attributes: costName, amount, taxes
+
+Employees.java //Employees class with attributes: ID (of the employee), Employees name, hourly wage
